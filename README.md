@@ -1,0 +1,1 @@
+# reactNativeFbAuthentication after npm install should have comment the override class in node_modules\react-native-fbsdk\android\src\main\java\com\facebook\reactnative\androidsdk/FBSDKPackage.java line 61 to 64 
